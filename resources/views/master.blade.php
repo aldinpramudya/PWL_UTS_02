@@ -22,7 +22,7 @@
     <!-- Content Header (Page header) -->
     <div class="content-header">
       <div class="container-fluid">
-        <h1>Halaman Buku</h1>
+        <h1>Dashboard</h1>
       </div><!-- /.container-fluid -->
     </div>
     <!-- /.content-header -->

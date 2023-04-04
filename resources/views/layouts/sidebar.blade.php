@@ -35,7 +35,7 @@
           <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
           <li class="nav-item">
-            <a href="#" class="nav-link">
+            <a href="{{Route('profile')}}" class="nav-link">
               <i class="nav-icon far fa-image"></i>
               <p>
                 Profile
@@ -43,7 +43,7 @@
             </a>
           </li>
           <li class="nav-item">
-            <a href="#" class="nav-link">
+            <a href="{{Route('book.index')}}" class="nav-link">
               <i class="nav-icon fas fa-columns"></i>
               <p>
                 Table
