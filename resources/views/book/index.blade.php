@@ -52,4 +52,5 @@
     </tr>
     @endforeach
 </table>
+{{$book->links()}}
 @stop
